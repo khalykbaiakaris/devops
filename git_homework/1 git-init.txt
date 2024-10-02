@@ -1,4 +1,4 @@
-https://github.com/khalykbaiakaris/jusan-git/tree/e2d743e3d9b8d533fa8436c9eb61662c9ca250b7
+https://github.com/khalykbaiakaris/jusan-git/tree/e2d7ccc7db8d4c0ebd582c79edab18e39e2f9feaf683
 
 
 ### вывод лога 
