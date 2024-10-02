@@ -1,0 +1,7 @@
+https://github.com/khalykbaiakaris/jusan-git/tree/e2d743e3d9b8d533fa8436c9eb61662c9ca250b7
+
+
+### вывод лога 
+### git log --all --decorate --oneline --graph
+### * ccc7db8 (HEAD -> main, origin/main) add: README.md
+### * e2d743e add: script.sh
